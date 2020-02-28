@@ -46,7 +46,7 @@ __Eric Bernier__
 **Collusion will not be tolerated. A trade will ONLY be vetoed if there is EXTREMELY evident collusion and the guilty teams will be removed from the league and forfeit any dues paid. Colluders will not be given infractions, and will be immediately removed.**
 
 ### Tanking ###
--Tanking is not tolerated. Trading players away so that your roster is objectively worse, but netting you better picks is not considered tanking. However, repeatedly setting sub-optimal rosters, players on bye week, etc will lead to investigation. Arguments such as "it is my money and I can do what I want with it" do not carry water. Your actions affect other league members and what happens with their money. If a team is expected to be purposely tanking, the team owner will receive a warning the first time, followed by loss of a 1st round draft pick, and lastly removal from the league and forfeiture of buyin(s).
+Tanking is not tolerated. Trading players away so that your roster is objectively worse, but netting you better picks is not considered tanking. However, repeatedly setting sub-optimal rosters, players on bye week, etc will lead to investigation. Arguments such as "it is my money and I can do what I want with it" do not carry water. Your actions affect other league members and what happens with their money. If a team is expected to be purposely tanking, the team owner will receive a warning the first time, followed by loss of a 1st round draft pick, and lastly removal from the league and forfeiture of buyin(s).
 
 ## __Section II - League Dues__ ##
 

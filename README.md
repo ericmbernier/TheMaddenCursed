@@ -158,7 +158,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
       </tr>
       <tr>
         <td>Miscellaneous </td>
-        <td>Total Fumbles Lost</td>
+        <td>Fumble Lost</td>
         <td>-2</td>
       </tr>
 </table>

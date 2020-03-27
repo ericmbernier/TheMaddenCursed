@@ -34,7 +34,7 @@ __Eric Bernier__
 
 ### Commissioner Powers ###
 - The commissioner has the ability (ONLY in situations deemed appropriate by the league) to edit lineups (either current or past), add/drop players, and force/veto trades. Additionally, the commissioner can pause/resume the draft and set/remove draft picks for teams.
-- The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie, the commissioner will always have the tiebreaking vote. If the commissioner is involved in a dispute it is up to the league to settle matters accordingly. 
+- The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. If the commissioner is involved in a dispute it is up to the league to settle matters accordingly. 
 
 ### Rule Changes ###
 #### Nomination ####

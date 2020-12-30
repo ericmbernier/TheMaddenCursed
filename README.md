@@ -74,7 +74,7 @@ If a team does not pay their dues by the designated payment date then they are n
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
-   BE | 14 | No Limi
+   BE | 14 | No Limit
    Taxi Squad | 3 | 1st-year players only
    IR | 2 | No Limit
 
